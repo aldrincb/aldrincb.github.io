@@ -25,7 +25,7 @@ It was a hard question. I've never been good at telling stories and I wanted to 
 "And that's my story"
 ...
 
-![image-center](/assets/images/20161124SF/DSCF2834.jpg){: .align-center}
+![image-center](/assets/images/20160917SF/DSCF2834.jpg){: .align-center}
 
 
 Holy shit. What a story. I was inspired. After hearing it, I did some self-reflecting on my life and the stories of my life. Like I said before, there are some interesting tales in the life of Aldrin. I just need to remember them and I would want be able to tell them well. So here's my platform. I want to treat this as a self-improvement exercise. Self-improvement in multiple areas of my life. I want to improve my story telling skills. I want to be occupied with daily work to reduce laziness. I want to be well-spoken. I want to remember my life as I live it and I want to share it. Through this blog or whatever you want to call it, I hope to achieve these goals and more.
