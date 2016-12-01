@@ -4,9 +4,9 @@ title: no more parties in la
 
 Please, no more parties in LA.
 
-Here are some photos that I took in my short trip to the city of Angels.
+Here are some photos that I took in my short trip to the city of angels.
 
-![image-center](/assets/images/1124LA/DSCF4815.jpg){: .align-center}
+![image-center](/assets/images/20161124LA/DSCF4815.jpg){: .align-center}
 Griffith Observatory
 
 ![image-center](/assets/images/20161124LA/DSCF4825.jpg){: .align-center}
