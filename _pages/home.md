@@ -1,7 +1,6 @@
 ---
 layout: splash
 permalink: /
-author_profile: true
 ---
 
-Welcome to my website!
+Welcome to my website! It is a work in progress.
