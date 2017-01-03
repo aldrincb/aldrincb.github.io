@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_image:
+  overlay_image: /assets/images/mm-customizable-feature.png
 excerpt:
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
