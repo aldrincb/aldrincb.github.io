@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/splash.png
+  overlay_image: /assets/images/splash.jpg
 excerpt: "Work in progress"
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
