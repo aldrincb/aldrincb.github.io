@@ -10,7 +10,7 @@ feature_row:
     title: "Engineering"
     excerpt: "Of the software kind. I am mainly an mobile (iOS) developer, but I'm always interesting and willing to learn new technologies."
 #    url: "/docs/configuration/"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/home-photography.jpg
     alt: "instagrammer"
     title: "Photography"
     excerpt: "I enjoy taking photos on the side. I'm a total amateur, but I absolutely love playing around with my camera."
