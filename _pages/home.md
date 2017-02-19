@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/splash.jpg
 excerpt: "Work in progress"
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/home-engineering.jpg
     alt: "engineer"
     title: "Engineering"
     excerpt: "Of the software kind. I am mainly an mobile (iOS) developer, but I'm always interesting and willing to learn new technologies."
