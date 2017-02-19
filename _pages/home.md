@@ -15,10 +15,9 @@ feature_row:
     title: "Photography"
     excerpt: "I enjoy taking photos on the side. I'm a total amateur, but I absolutely love playing around with my camera."
 #    url: "/docs/layouts/"
-intro:
-  - excerpt: 'Hello, my name is Aldrin. I'm a graduating Computer Engineer from the University of Waterloo. During my undergraduate studies, I've travelled the world through my internships and worked at some pretty awesome places.'
-
 ---
+
+Hello, my name is Aldrin. I'm a graduating Computer Engineer from the University of Waterloo. During my undergraduate studies, I've travelled the world through my internships and worked at some pretty awesome places.
 
 {% include feature_row id="intro" type="center" %}
 
