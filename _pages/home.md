@@ -1,11 +1,5 @@
 ---
-layout: splash
-excerpt: "
-
-
-
-
-"
+layout: splashs
 permalink: /
 header:
   image: /assets/images/home-splash.jpg
@@ -22,8 +16,6 @@ feature_row:
 #    url: "/docs/layouts/"
 
 ---
-
-# Where's Aldo
 
 Hi, my name is Aldrin Balisi. I'm a graduating Computer Engineer from the University of Waterloo. During my undergraduate studies, I've travelled the world through my internships and worked at some pretty awesome places.
 
