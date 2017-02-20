@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /engineering/
 header:
   image: /assets/images/home-splash.jpg
 feature_row:
