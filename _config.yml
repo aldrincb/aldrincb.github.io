@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Aldrin Balisi"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am a work in progress."
+  bio              : "Permanently a work in progress."
   location         : "San Francisco, CA"
   email            : "aldrin.balisi@gmail.com"
   uri              :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "aldrincb"
   google_plus      :
   keybase          :
   instagram        : "aldrinbalisi"
   lastfm           :
-  linkedin         :
+  linkedin         : "aldrinbalisi"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
