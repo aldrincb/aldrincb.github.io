@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /engineering/
+author_profile: true
 ---
 
 # Experience
@@ -30,4 +31,4 @@ This internship was my first time working in the San Francisco Bay Area, and I f
 Imaggle was a startup in Tokyo, Japan. It was an application where people could sell their fashion items to each other. These types of applications were very successful and popular in Japan. This term was my first real work experience in iOS after learning it through side projects. I learned a lot during my time there. And Japan was just amazing to travel to.
 * Implemented viral sharing; Raised app rank from top 100 to top 40 in the Japanese catalogue category of AppStore (378% increase in downloads)
 * Developed UBER-like real-time visual interface using GPS and iBeacons to improve user experience
-* Created internal app for curating products in the client app from scratch -->
+* Created internal app for curating products in the client app from scratch
