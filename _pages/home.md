@@ -8,7 +8,7 @@ feature_row:
     alt: "engineer"
     title: "Engineering"
     excerpt: "Of the software kind. I am mainly a mobile (iOS) developer, but I'm always interesting and willing to learn new technologies."
-#    url: "/docs/configuration/"
+    url: "/engineering/"
   - image_path: /assets/images/home-photography.jpg
     alt: "instagrammer"
     title: "Photography"
