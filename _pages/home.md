@@ -1,5 +1,5 @@
 ---
-layout: splashs
+layout: splash
 permalink: /
 header:
   image: /assets/images/home-splash.jpg
