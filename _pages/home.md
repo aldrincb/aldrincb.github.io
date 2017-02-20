@@ -5,9 +5,6 @@ excerpt: "
 
 
 
-
-
-
 "
 permalink: /
 header:
