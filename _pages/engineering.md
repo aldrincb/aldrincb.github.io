@@ -1,12 +1,11 @@
 ---
 permalink: /engineering/
 title: "Software Engineer"
-sidebar:
-  - title: "Aldrin Balisi"
-    image: /assets/images/bio-photo.jpg
-    image_alt: "logo"
-    text: "Software Engineer"
-
+#sidebar:
+#  - title: "Aldrin Balisi"
+#    image: /assets/images/bio-photo.jpg
+#    image_alt: "logo"
+#    text: "Software Engineer"
 ---
 
 # Experience
