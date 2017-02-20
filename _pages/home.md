@@ -4,11 +4,18 @@ permalink: /
 header:
   overlay_image: /assets/images/splash.jpg
 excerpt: "Work in progress"
+sidebar:
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 feature_row:
   - image_path: /assets/images/home-engineering.jpg
     alt: "engineer"
     title: "Engineering"
-    excerpt: "Of the software kind. I am mainly an mobile (iOS) developer, but I'm always interesting and willing to learn new technologies."
+    excerpt: "Of the software kind. I am mainly a mobile (iOS) developer, but I'm always interesting and willing to learn new technologies."
 #    url: "/docs/configuration/"
   - image_path: /assets/images/home-photography.jpg
     alt: "instagrammer"
