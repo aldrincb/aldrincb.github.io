@@ -1,4 +1,31 @@
 ---
+layout: splash
+permalink: /
+header:
+  image: /assets/images/home-splash.jpg
+feature_row:
+  - image_path: /assets/images/home-engineering.jpg
+    alt: "engineer"
+    title: "Engineering"
+    excerpt: "Of the software kind. I am mainly a mobile (iOS) developer, but I'm always interesting and willing to learn new technologies."
+    url: "/engineering/"
+  - image_path: /assets/images/home-photography.jpg
+    alt: "instagrammer"
+    title: "Photography"
+    excerpt: "I enjoy taking photos on the side. I'm a total amateur, but I absolutely love playing around with my camera."
+#    url: "/docs/layouts/"
+intro:
+ - excerpt: 'Permanently a work in progress'
+---
+
+Hi, my name is Aldrin Balisi. I'm a graduating Computer Engineer from the University of Waterloo. During my undergraduate studies, I've travelled the world through my internships and worked at some pretty awesome places.
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+
+<!-- ---
 permalink: /engineering/
 ---
 
@@ -29,4 +56,4 @@ This internship was my first time working in the San Francisco Bay Area, and I f
 Imaggle was a startup in Tokyo, Japan. It was an application where people could sell their fashion items to each other. These types of applications were very successful and popular in Japan. This term was my first real work experience in iOS after learning it through side projects. I learned a lot during my time there. And Japan was just amazing to travel to.
 * Implemented viral sharing; Raised app rank from top 100 to top 40 in the Japanese catalogue category of AppStore (378% increase in downloads)
 * Developed UBER-like real-time visual interface using GPS and iBeacons to improve user experience
-* Created internal app for curating products in the client app from scratch
+* Created internal app for curating products in the client app from scratch -->
