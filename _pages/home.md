@@ -1,16 +1,17 @@
 ---
-title: "Where's Aldo"
-excerpt: "Work in progress"
+layout: splash
+excerpt: "
+
+
+
+
+
+
+
+"
 permalink: /
 header:
   image: /assets/images/home-splash.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 feature_row:
   - image_path: /assets/images/home-engineering.jpg
     alt: "engineer"
@@ -24,6 +25,8 @@ feature_row:
 #    url: "/docs/layouts/"
 
 ---
+
+# Where's Aldo
 
 Hi, my name is Aldrin Balisi. I'm a graduating Computer Engineer from the University of Waterloo. During my undergraduate studies, I've travelled the world through my internships and worked at some pretty awesome places.
 
