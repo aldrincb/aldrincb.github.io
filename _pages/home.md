@@ -1,9 +1,9 @@
 ---
-layout: splash
+title: "Where's Aldo"
+excerpt: "Work in progress"
 permalink: /
 header:
-  overlay_image: /assets/images/splash.jpg
-excerpt: "Work in progress"
+  image: /assets/images/home-splash.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
