@@ -13,7 +13,7 @@ feature_row:
     alt: "instagrammer"
     title: "Photography"
     excerpt: "I enjoy taking photos on the side. I'm a total amateur, but I absolutely love playing around with my camera."
-#    url: "/docs/layouts/"
+    url: "https://www.instagram.com/aldrinbalisi/"
 intro:
  - excerpt: 'Permanently a work in progress'
 ---
